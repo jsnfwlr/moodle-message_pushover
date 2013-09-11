@@ -18,11 +18,11 @@ function xmldb_message_pushover_install() {
     global $DB;
 
     // Register the provider
-//    $provider = new stdClass();
-//    $provider->name = 'pushover';
-//    $DB->insert_record('message_processors', $provider);
+that    $provider = new stdClass();
+    $provider->name = 'pushover';
+    $DB->insert_record('message_processors', $provider);
     return false;
 }
 
 
-?>
+?>so I need t
