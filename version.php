@@ -14,8 +14,8 @@
 defined('MOODLE_INTERNAL') || die('File cannot be accessed directly.');
 
 $plugin->component      = 'message_pushover';
-$plugin->version        = 2013091002;
+$plugin->version        = 2013091003;
 $plugin->requires       = 2013040500;
-$plugin->release	= '1.0 (Build: 2013091001)';
+$plugin->release	= '1.0 (Build: 2013091003)';
 $plugin->maturity	= 'MATURITY_BETA';
 
