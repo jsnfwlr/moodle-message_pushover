@@ -7,7 +7,7 @@
  *
  * @package message_pushove
 r * @author Jason Fowler <phalacee@gmail.com>
- * @copyright Copyright &copy; 2013 Jason Fowler. All rights reserved.
+ * @copyright Copyright &copy; 2013 Jason Fowler.
  * @license http://www.gnu.org/licenses/gpl.html GNU General Public Licence v3 (See code header for additional terms)
  */
 
